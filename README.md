@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* I'm currently a 2B undergraduate student at University of Waterloo, studying Mechatronics.
+* I'm currently a 3A undergraduate student at University of Waterloo, studying Mechatronics.
 
 * I like learning new things, and lately during my free time have begun learning about Artificial Intelligence and its applications, especially in Computer Vision.
 
